@@ -8,6 +8,8 @@ a desktop pet, use Ghast from minecraft. (made by ai)
 **你需要按照need-package.txt的指示安装库。You need to install the libraries as instructed in need-packages.txt.**
 
 **你要在运行前安装python。 You need install python before running.**
+
+**有些免费 LLM API可能会报429错误，这不是项目问题，不要在issues报告。 Some free LLM APIs might report a 429 error, this isn't a project issue, so don't report it in the issues.**
 ## 其他功能 OTHER FUNCTIONS
 1.自带LLM API接入功能，在pet-main.py修改接入后右键可对话。 It comes with an LLM API integration feature, you can chat by right-clicking after modifying the integration in pet-main.py.
 
