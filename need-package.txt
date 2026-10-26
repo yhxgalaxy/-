@@ -1,0 +1,6 @@
+你需要安装以下库 You need use pip install packages：
+requests
+pillow
+
+如果发生API报错，你可以更新 if has API error, u can upgrade:
+certifi
